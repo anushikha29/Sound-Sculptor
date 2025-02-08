@@ -54,6 +54,7 @@
 ![Playlist Creation Options](https://github.com/user-attachments/assets/1aa49f33-ea22-4800-aac8-0d2c82dadad0)
 
 **1) AI-Generated Playlist:**
+
 ![AI-Generated Playlist](https://github.com/user-attachments/assets/d4700349-7219-472a-af4a-eb1d327d5efb)
 
 **2) Sculpt-it Yourself (Giving you a ton of options to help you create the perfect playlist):**
